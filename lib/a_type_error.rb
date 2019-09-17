@@ -1,3 +1,3 @@
-1 + 1
+numb = 1 + 1
 
-1 + "is the loneliest number"
+puts numb "is the loneliest number"
